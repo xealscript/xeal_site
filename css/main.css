@@ -1,5 +1,7 @@
 
-
+body.gallery.bottom.right img {
+    display: none;
+}
 /*---------------------------------------------*/
 input {
 	outline: none;

@@ -234,8 +234,7 @@ header.masthead p {
 	height: 100%;
 	text-align: center;
 	opacity: 0;
-	color: #fff;
-	background: rgba(49, 48, 47, 0.69);
+	color: #333;
 	-webkit-transition: all .2s;
 	-moz-transition: all .2s;
 	transition: all .2s

@@ -237,7 +237,8 @@ h1.text-uppercase.wow.hinge.animate {
     font-weight: bold;
     font-size: 50px;
 }
-#about a:hover{
+#about a:hover,
+a.contact-btn:hover{
     color:#ffffff;
 }
 section#about {
@@ -261,7 +262,12 @@ section#about {
 
 
 
-
+.row.no-gutters.popup-gallery {
+    padding:0 40px;
+}
+.project-category.text-faded{
+    color:#333;
+}
 
 
 
